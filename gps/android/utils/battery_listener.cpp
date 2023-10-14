@@ -265,4 +265,4 @@ bool loc_extn_battery_properties_is_charging()
 {
     return android::batteryPropertiesListenerIsCharging();
 }
- 
+
